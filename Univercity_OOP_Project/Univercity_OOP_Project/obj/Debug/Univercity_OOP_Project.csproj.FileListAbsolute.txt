@@ -1,0 +1,10 @@
+C:\Users\Denic Paranichev\source\repos\Univercity_OOP_Project\Univercity_OOP_Project\bin\Debug\Univercity_OOP_Project.exe.config
+C:\Users\Denic Paranichev\source\repos\Univercity_OOP_Project\Univercity_OOP_Project\bin\Debug\Univercity_OOP_Project.exe
+C:\Users\Denic Paranichev\source\repos\Univercity_OOP_Project\Univercity_OOP_Project\bin\Debug\Univercity_OOP_Project.pdb
+C:\Users\Denic Paranichev\source\repos\Univercity_OOP_Project\Univercity_OOP_Project\obj\Debug\Univercity_OOP_Project.csprojAssemblyReference.cache
+C:\Users\Denic Paranichev\source\repos\Univercity_OOP_Project\Univercity_OOP_Project\obj\Debug\Univercity_OOP_Project.Form1.resources
+C:\Users\Denic Paranichev\source\repos\Univercity_OOP_Project\Univercity_OOP_Project\obj\Debug\Univercity_OOP_Project.Properties.Resources.resources
+C:\Users\Denic Paranichev\source\repos\Univercity_OOP_Project\Univercity_OOP_Project\obj\Debug\Univercity_OOP_Project.csproj.GenerateResource.cache
+C:\Users\Denic Paranichev\source\repos\Univercity_OOP_Project\Univercity_OOP_Project\obj\Debug\Univercity_OOP_Project.csproj.CoreCompileInputs.cache
+C:\Users\Denic Paranichev\source\repos\Univercity_OOP_Project\Univercity_OOP_Project\obj\Debug\Univercity_OOP_Project.exe
+C:\Users\Denic Paranichev\source\repos\Univercity_OOP_Project\Univercity_OOP_Project\obj\Debug\Univercity_OOP_Project.pdb
